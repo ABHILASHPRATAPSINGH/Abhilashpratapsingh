@@ -18,12 +18,12 @@
   </a>
 </div>
 <br>
-## 👨‍💻 About Me
-I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ years of experience. I specialize in building robust automation buisness solution.
-- 🔭 Currently working on Power Platform Automation development and RPA automation tools, VBA and Python
-<br/>
+
+
 ## 🛠️ Tech Stack
+
 <div align="center">
+
 ### Languages & Core Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![VBA](https://img.shields.io/badge/VBA-Visual_Basic_for_Applications-blueviolet?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -37,11 +37,13 @@ I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ year
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate%20Cloud-blue?style=for-the-badge&logo=microsoft&logoColor=white)
 
+
 ### Backend & Database
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Dataverse](https://img.shields.io/badge/Microsoft-Dataverse-45b649?style=for-the-badge&logo=microsoft&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ### DevOps & Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -50,10 +52,10 @@ I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ year
 <hr>
 <h3> 🤝 Connect With Me</h3>
 <div align="center">
-  <a href="mailto:abhilashpratapsingh25@gmail.com">
+  <a href="mailto:chitreshpratapsingh20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://in.linkedin.com/in/abhilashpratapsingh">
+  <a href="https://in.linkedin.com/in/chitreshpratapsingh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
@@ -61,5 +63,3 @@ I'm a versatile Automation Developer and Data Scientist from INDIA with 10+ year
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
-
-
