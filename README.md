@@ -13,7 +13,7 @@
   <a href="https://github.com/abhilashpratapsingh">
     <img src="https://img.shields.io/badge/Website-Portfolio-6366F1" alt="Visit Abhilash Pratap Singh's Portfolio Website - RPA Automation Developer" />
   </a>
-  <a href="mailto:chitreshpratapsingh20@gmail.com" >
+  <a href="mailto:abhilashpratapsingh25@gmail.com" >
     <img src="https://img.shields.io/badge/Email-Contact-6366F1" alt="Email" />
   </a>
 </div>
@@ -52,10 +52,10 @@
 <hr>
 <h3> 🤝 Connect With Me</h3>
 <div align="center">
-  <a href="mailto:chitreshpratapsingh20@gmail.com">
+  <a href="mailto:abhilashpratapsingh25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://in.linkedin.com/in/chitreshpratapsingh">
+  <a href="https://in.linkedin.com/in/abhilashpratapsingh">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
